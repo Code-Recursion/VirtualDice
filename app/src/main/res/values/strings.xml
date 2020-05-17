@@ -2,4 +2,7 @@
     <string name="app_name">DiceRoller</string>
     <string name="roll_label">Roll</string>
     <string name="count_label">Count</string>
+    <string name="clear_label">CLEAR</string>
+    <string name="second_dice">Second Dice</string>
+    <string name="first_dice">First Dice</string>
 </resources>
