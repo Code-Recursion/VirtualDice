@@ -1,5 +1,5 @@
 # Virtual Dice
-##### `App build while participating in #30DaysOfKotlin by Google Developers India`
+#### `App build during participating in #30DaysOfKotlin by Google Developers India`
 
 ###  `Screen Shot`
 <table>
